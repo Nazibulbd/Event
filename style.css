@@ -26,7 +26,9 @@
     padding: 15px 30px;
 }
 
-
+body{
+    background-color: rgba(250, 235, 215, 0.783);
+}
 
 #box_10{
     padding: 20px;
@@ -55,4 +57,11 @@
 }
 #box_10 #box_20 #box_30 #box_40 #box_50 #button{
     padding: 15px 30px;
+}
+
+h2{
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.302);
+    border-radius: 3px;
+    line-height: 40px;
 }
